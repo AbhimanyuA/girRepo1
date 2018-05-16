@@ -6,6 +6,6 @@ public class gitJenkinsTestNG {
   @Test
   public void functName() {
 	  
-	  System.out.println("My first commiting and pushing");
+	  System.out.println("My second commiting and pushing");
   }
 }

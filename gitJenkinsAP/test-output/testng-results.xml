@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="58" started-at="2018-05-16T02:20:30Z" finished-at="2018-05-16T02:20:30Z">
+  <suite name="Default suite" duration-ms="43" started-at="2018-05-16T02:23:32Z" finished-at="2018-05-16T02:23:32Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="58" started-at="2018-05-16T02:20:30Z" finished-at="2018-05-16T02:20:30Z">
+    <test name="Default test" duration-ms="43" started-at="2018-05-16T02:23:32Z" finished-at="2018-05-16T02:23:32Z">
       <class name="gitJenkinsGP.gitJenkinsAP.gitJenkinsTestNG">
-        <test-method status="PASS" signature="functName()[pri:0, instance:gitJenkinsGP.gitJenkinsAP.gitJenkinsTestNG@56dfcb]" name="functName" duration-ms="14" started-at="2018-05-16T07:50:30Z" finished-at="2018-05-16T07:50:30Z">
+        <test-method status="PASS" signature="functName()[pri:0, instance:gitJenkinsGP.gitJenkinsAP.gitJenkinsTestNG@56dfcb]" name="functName" duration-ms="11" started-at="2018-05-16T07:53:32Z" finished-at="2018-05-16T07:53:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- functName -->
