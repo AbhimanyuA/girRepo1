@@ -6,6 +6,6 @@ public class gitJenkinsTestNG {
   @Test
   public void functName() {
 	  
-	  System.out.println("My first Pulling");
+	  System.out.println("My branched Pulling");
   }
 }
